@@ -1,0 +1,65 @@
+{
+  "app": {
+    "auth-interceptor": {
+      "warn": "Your login session has expired. Please log in again."
+    },
+    "user-profile-menu": {
+      "change-pwd": "Change Password",
+      "dark-theme": "Dark Theme",
+      "password-update-fail": "Failed to update password.",
+      "password-update-success": "Password updated successfully.",
+      "session-setting": "Session Settings",
+      "sign-out": "Log Out"
+    }
+  },
+  "shared-ui": {
+    "session-setting-dialog": {
+      "session-setting": "Session Settings",
+      "input-session-timeout": "Session Timeout (min)",
+      "input-range-error": "The number must between 5 and 120.",
+      "input-required-error": "The value is required.",
+      "btn-cancel": "Cancel",
+      "btn-save": "Save",
+      "api-request": {
+        "session-update-fail": "Failed to update session settings.",
+        "session-update-success": "Session settings updated successfully."
+      }
+    },
+    "change-password-dialog": {
+      "change-password": "Change Password",
+      "updated-on": "Your password was updated on",
+      "current-password": "Current Password",
+      "input-required": "Value is required.",
+      "cancel": "Cancel",
+      "save": "Save",
+      "warning": "Warning",
+      "non_ascii": "Only ASCII characters are accepted.",
+      "input_invalid": "This field may not contain any of the following characters: '\"`/\\"
+    },
+    "change-password-service": {
+      "at-least-characters": "Contains at least {{limitation}} characters",
+      "at-least-numbers": "Contains at least {{limitation}} number",
+      "at-least-special-charachers": "Contains at least {{limitation}} special character",
+      "at-least-lower-charachers": "Contains at least {{limitation}} lower character",
+      "at-least-upper-charachers": "Contains at least {{limitation}} upper character"
+    },
+    "confirm-password": {
+      "password": "Password",
+      "new-password": "New Password",
+      "blacklist-password-error": "Must be different from the initial and current passwords.",
+      "password-length-limit-error": "Over password length limit.",
+      "invalid-password-char": "Invalid character.",
+      "confirm-password-label": "Confirm Password",
+      "confirm-new-password-label": "Confirm New Password",
+      "password-not-match": "Password do not match.",
+      "new-password-not-match": "New password do not match."
+    },
+    "reboot-warning-dialog": {
+      "cancel": "Cancel",
+      "description-1": "The device needs to reboot for these settings to take effect.",
+      "description-2": "Do you want to continue?",
+      "ok": "Reboot",
+      "title": "Reboot Required"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "login-box": {
+    "account": "Account",
+    "copy-right-msg": "© {{ year }} Moxa Inc. All rights reserved.",
+    "idle-timeout-msg": "You have been automatically logged out due to inactivity. Please log in again.",
+    "login-failed-msg": "Invalid account or password.",
+    "pwd": "Password",
+    "sign-in": "LOG IN",
+    "sign-in-msg": "Log in to <br /> {{ modelInfo }}",
+    "user-logout-msg": "You have been logged out."
+  }
+}

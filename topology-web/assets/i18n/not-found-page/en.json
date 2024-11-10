@@ -1,0 +1,10 @@
+{
+  "not-found-page": {
+    "error-code": "Error code",
+    "homepage": "Home page",
+    "info": "We could not find the page that you requested.",
+    "msg": "You may want to try ",
+    "page-not-found": "Page not found",
+    "sorry": "Sorry"
+  }
+}

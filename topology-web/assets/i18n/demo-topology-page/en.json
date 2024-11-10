@@ -1,0 +1,15 @@
+{
+  "topology-page": {
+    "topology-page": "Topology Demo",
+    "success-message": "Updated successfully",
+    "fail-message": "Update failed",
+    "fail-import-message": "Import failed",
+    "fail-export-message": "Export failed",
+    "config-import": "Import Config",
+    "config-export": "Export Config",
+    "firmware-upgrade": "Firmware Upgrade",
+    "grid-layout": "Grid Layout",
+    "cancel": "Cancel",
+    "import": "Import"
+  }
+}

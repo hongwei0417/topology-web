@@ -1,0 +1,15 @@
+{
+  "device-discovery-page": {
+    "device-discovery-page": "Device Discovery",
+    "success-message'": "Updated successfully",
+    "fail-message": "Update failed",
+    "network_ip_range": "Network IP Range",
+    "complete": "Complete",
+    "browse-topology": "Browse Topology",
+    "startIP": "Start IP",
+    "endIP": "End IP",
+    "scan": "Scan",
+    "ipv4-range-error": "Only an IP address in the range 0.0.0.0 to 223.255.255.255 is allowed.",
+    "field-required": "This value is required"
+  }
+}

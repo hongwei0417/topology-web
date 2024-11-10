@@ -1,0 +1,18 @@
+{
+  "device-list-page": {
+    "device-list-page": "All Devices",
+    "success-message": "Updated successfully",
+    "fail-message": "Update failed",
+    "hint_table_no_data": "No data to display.",
+    "ip": "IP",
+    "aliasName": "Alias Name",
+    "modelName": "Model Name",
+    "serialNumber": "Serial Number",
+    "macAddress": "MAC Address",
+    "firmwareVersion": "Firmware Version",
+    "location": "Location",
+    "search": "Search",
+    "refresh": "Refresh",
+    "broadcast-search": "Moxa Device Discovery"
+  }
+}
